@@ -1,5 +1,5 @@
-!
-# More algorithms training
+Algorithms training THP
+
 * Introduction
 Tu viens de passer deux jours à faire des algorithmes abstraits qui permettent de trier des listes. C'est cool, mais à quoi cela sert, étant donné que sort existe déjà dans les fonctions de base de tous les langages ? Eh bien, nous allons te demander de réaliser des algorithmes optimisés pour des besoins précis d'entreprises.  
   
